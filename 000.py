@@ -1,3 +1,6 @@
+pip install requests
+pip install telebot
+
 import requests
 import telebot
 
